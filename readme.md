@@ -1,1 +1,1 @@
-<p>t
+hugo server -t toha -w
