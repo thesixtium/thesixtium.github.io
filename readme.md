@@ -10,3 +10,5 @@ testing:
 Links
 * https://gohugo.io/hosting-and-deployment/hosting-on-github/
 * https://gohugo.io/getting-started/quick-start/
+* https://toha-guides.netlify.app/posts/getting-started/github-pages/
+* https://toha-guides.netlify.app/posts/getting-started/prepare-site/
