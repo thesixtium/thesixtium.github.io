@@ -1,22 +1,20 @@
 # some information about you
-name: "John Doe"
-nickname: "John"
+name: "Aleksander Berezowski"
+nickname: "Aleks"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-# image: "images/author/john.png"
+image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
-  stack-overflow:
-    icon: stack-overflow
-    url: "https://stackoverflow.com/users/1/exampleUser"
-    text: "ExampleUser"
+  email: "aleksander.berezowsk@ucalgary.ca"
+  phone: "+15875779945"
+  github: thesixtium
+  linkedin: aleksander-berezowski
 
 # some summary about what you do
 summary:
   - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - I love problem solving
+  - I am a team player
+  - I work on a university design team
+  - I love to make interesting projects

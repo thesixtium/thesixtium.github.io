@@ -11,32 +11,123 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Alberta Indoor Comfort
+    url: "https://www.albertacleanair.com/"
+    location: Calgary, Alberta
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Alberta Indoor Comfort is your One Stop Shop for All Things for Your Home, including Heating, Cooling, Indoor Air Quality, Renovations for Senior's Accessible Living and Home Technology.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: Sales, Marketing, and Automation Intern
+    start: May 2018
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Automated over $31,000 worth of data entry using Python and Selenium  
+    - Managed company social media accounts and ran inorganic social media campaigns.
+    - Made multiple sales funnels in Clickfunnels / Zapier, worked on lead generation, and created sales funnel operation procedures.
+    - Generated over 8,800 qualified leads in 9 days via social media.
+    - Developed webpages in Thrive Architect to market and sell products and service.
+- company:
+    name: DeepRacer Calgary
+    url: "https://deepracer-website.web.app/"
+    location: Calgary, Alberta
+    # company overview
+    overview: DeepRacer Calgary is a student-led initiative that strives to enable and empower individuals to learn about the applications of machine learning (ML). It is Canada’s first autonomous racing league for students. Using reinforcement learning (RL), an advanced ML technique, students will develop models to compete for the fastest lap time.
+  positions:
+  - designation: Co-President
+    start: July, 2022
+    responsibilities:
+    - Manage team of 10 people to ensure people stay on task
+    - Designed the entire DeepRacer website
+    - Keep in constant communication with Amazon about our progress
+    - Build and implement marketing plan
+    - Construct 4' walls on a 24' by 16' track out of wood
+    - Keep on-top of latest racing models
+- company:
+    name: Electrical, Computer and Software Engineering Student’s Society
+    url: "https://zooengg.ca/"
+    location: Calgary, Alberta
+    # company overview
+    overview: The University of Calgary's Electrical, Computer, and Software Engineering Students' Society aims to support their undergraduate students, both academically and socially, by providing them with a variety of events to enrich their University experience.
+  positions:
+  - designation: President
+    start: May 2022
+    responsibilities:
+    - Effectively lead a team of 26 people.
+    - Market to and engage with a student population of well over 800 students.
+    - Ensure all internal projects are being met on time.
+    - Ensure open communication between the University, Students, and Executive council.
+  - designation: Vice President Internal
+    start: May 2021
+    end: May 2022
+    responsibilities:
+    - Manage internal operations for the Electrical, Computer and Software Engineering Student’s Society.
+    - Responsibilities include social media management, homeroom upkeep, and ensuring effective internal communication.
+- company:
+    name: Nanotribology Lab
+    url: "https://www.ucalgary.ca/labs/nanotribology"
+    location: Calgary, Alberta
+    # company overview
+    overview: Our research focuses on the study friction, plasticity and wear at the nanoscale using atomic force microscopy (AFM).  We investigate these problems on simple materials and determine the fundamental physical mechanisms by which they occur.
+  positions:
+  - designation: Research Assistant
+    start: May 2022
+    end: August 2022
+    responsibilities:
+    - Built software and electrical systems for a "Bearing Vibration Analysis Setup"
+    - Developed control software for a custom circular grease tribometer
+    - Worked to remote control an Atomic Force Microscopy machine 
+    - Created a data processing software to automate data analysis
+    - CAD'd multiple smaller lab objects or replacements
+- company:
+    name: CalgaryToSpace
+    url: "https://www.calgarytospace.ca/"
+    location: Calgary, Alberta
+    # company overview
+    overview: CalgaryToSpace works to inspire, engage and encourage the aerospace industry in our city by launching the University of Calgary’s first student-designed and constructed nano-satellite.
+  positions:
+  - designation: Electrical Team Member
+    start: November 2021
+    responsibilities:
+    - Design team focused on building and launching a satellite carrying research payloads.
+    - Learning about embedded system design and testing.
+    - All electrical schematic and routing work done within Altium.
+- company:
+    name: Alberta Collegiate Robotics
+    url: "https://www.acrobotics.ca/"
+    location: Calgary, Alberta
+    # company overview
+    overview: AC Robotics aims to create the leaders of tomorrow by providing a safe, fun, challenging environment for youth and post-secondary students to engage with engineering.
+  positions:
+  - designation: XP1 CANIS Electrical Team Lead and Software Team Member 
+    start: May 2021
+    end: November 2021
+    responsibilities:
+    - Helped to create, manage and lead the electrical team for the XP1 Robot Dog project.
+    - Designed and routed multiple PCBs that control and monitor the robot’s electrical hardware.
+    - Developed software to control and monitor the robot dog’s embedded system.
+- company:
+    name: Aktirak
+    url: "https://www.aktirak.biz/"
+    location: Calgary, Alberta
+    overview: Aktirak Corporation provides consulting services and solutions for operational/industrial data integration and automation technologies.
+  positions:
+  - designation: Software Development Intern
+    start: July 2021
+    end: September 2021
+    responsibilities:
+    - Independently created solutions to client problems using robotic process automation.
+    - Developed multiple automated systems.
+    - Wrote documentation for all created programs.
+    - Created presentations for potential clients on all solutions.
 
 - company:
-    name: PreExample Co.
-    url: "https://example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Local Kid Services
+    location: Calgary, Alberta
+    overview: Local Kid Services was a small business that provided labor services, mainly for elderly customers.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Owner
+    start: April 2016
+    end: September 2018
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Created, branded, and ran a small labor company, including business cards and a functional website.
+    - Managed multiple subcontractors.
+    - Secured several repeat customers.
